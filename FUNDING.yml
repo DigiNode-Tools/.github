@@ -1,0 +1,5 @@
+# Sponsor button for every repository in DigiNode-Tools that doesn't have its own FUNDING.yml
+# See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+
+github: DigiNode-Tools
+custom: ["https://diginode.tools/sponsors/"]
